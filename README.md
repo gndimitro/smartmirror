@@ -1,1 +1,1 @@
-# smartmirror
+# Smart Mirror
